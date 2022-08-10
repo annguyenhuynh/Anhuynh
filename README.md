@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @annguyenhuynh
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Google Data Analytics
+- 🌱 I finished Google Data Analytics cert several months ago
+- I'm sharpening my skills in SQL and Tableau and learning Python
 - 💞️ I’m looking to have a chance to apply what I've learned in real life
 - 📫 Feel free to email me @ huynhleanh.270897@gmail.com. 
 
