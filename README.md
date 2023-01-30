@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @annguyenhuynh
-- 👀 I’m interested in data analytics
+- 👋 Hi, I'm a GMU undergraduate trying to transition into data analytics industry.
 - 🌱 I learned data analytics from Coursera, and other free and affordable resources such as YouTube, Udemy and DataCamp
 - I'm sharpening my skills using MS Excel, SQL, Tableau, Power BI and Python
 - 💞️ I’m looking to have a chance to apply what I've learned in real life
